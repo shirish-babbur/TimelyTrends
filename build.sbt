@@ -1,0 +1,5 @@
+name:="TwitterDataProducer"
+version:="1.0.0"
+scalaVersion:="2.11.6"
+libraryDependencies += "org.apache.kafka" %% "kafka" % "1.0.0"
+libraryDependencies += "com.twitter" % "hbc-twitter4j" % "2.2.0"
